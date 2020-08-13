@@ -1,0 +1,2 @@
+Module for odoo13
+website_sale_animated_product
